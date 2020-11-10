@@ -5,3 +5,5 @@
 ## 42cursus
 #### Standart libary of C 
  * [libft](https://github.com/ifanzilka/42libft)
+#### Read line
+* [get_next_line](https://github.com/ifanzilka/get_next_line)
