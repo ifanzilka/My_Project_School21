@@ -5,6 +5,7 @@
 ## 42cursus
 #### Standart libary of C 
  * [libft](https://github.com/ifanzilka/42libft)
+ * [libft(improved version)](https://github.com/ifanzilka/libft)
 #### Network Protocol
 * [netwaht](https://github.com/ifanzilka/netwhat)
 #### Read line
