@@ -12,3 +12,5 @@
 * [netwaht](https://github.com/ifanzilka/netwhat)
 #### Read line
 * [get_next_line](https://github.com/ifanzilka/get_next_line)
+#### Print formatted
+* [ft_printf](https://github.com/ifanzilka/ft_printf)
