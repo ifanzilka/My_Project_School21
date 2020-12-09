@@ -14,5 +14,5 @@
 * [get_next_line](https://github.com/ifanzilka/get_next_line)
 #### Print formatted
 * [ft_printf](https://github.com/ifanzilka/ft_printf)
-#### Docker use
+#### Docker/Nginx/MySql/PhpMyAdmin/WordPress
 * [ft_server](https://github.com/ifanzilka/ft_server)
